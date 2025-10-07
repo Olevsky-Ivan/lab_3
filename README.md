@@ -43,5 +43,3 @@ Email: kiperdemiwan@gmail.com
 GitHub: [Olevsky-Ivan](https://github.com/Olevsky-Ivan)
 
 ---
-
-Хочеш, щоб я допоміг оформити блок-схеми або додати `.gitignore`?
